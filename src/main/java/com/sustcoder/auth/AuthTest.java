@@ -1,4 +1,4 @@
-package com.sustcoder.blog.Blog09.auth;
+package com.sustcoder.auth;
 
 
 import org.apache.commons.codec.digest.DigestUtils;
@@ -9,8 +9,9 @@ import java.security.PublicKey;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.sustcoder.blog.Blog09.auth.ZipUtil.unzip;
-import static com.sustcoder.blog.Blog09.auth.ZipUtil.zipDir;
+import static com.sustcoder.auth.ZipUtil.unzip;
+import static com.sustcoder.auth.ZipUtil.zipDir;
+
 
 public class AuthTest {
 

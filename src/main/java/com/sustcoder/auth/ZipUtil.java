@@ -1,4 +1,5 @@
-package com.sustcoder.blog.Blog09.auth;
+package com.sustcoder.auth;
+
 
 import org.apache.tools.ant.Project;
 import org.apache.tools.ant.taskdefs.Zip;

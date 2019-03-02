@@ -140,6 +140,35 @@
       <artifactId>commons-collections</artifactId>
       <version>3.2</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk15on</artifactId>
+      <version>1.60</version>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+      <version>1.10</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/redis.clients/jedis -->
+    <dependency>
+      <groupId>redis.clients</groupId>
+      <artifactId>jedis</artifactId>
+      <version>3.0.1</version>
+    </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.openanzo.dependencies/org.apache.tools.ant -->
+      <dependency>
+          <groupId>org.apache.ant</groupId>
+          <artifactId>com.springsource.org.apache.tools.ant</artifactId>
+          <version>1.8.3</version>
+      </dependency>
+
+
+
   </dependencies>
 
   <build>

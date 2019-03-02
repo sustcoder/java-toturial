@@ -1,4 +1,4 @@
-package com.sustcoder.blog.Blog09.auth;
+package com.sustcoder.auth;
 
 import java.net.InetAddress;
 import java.net.NetworkInterface;

@@ -1,4 +1,4 @@
-package com.sustcoder.blog.Blog09.auth;
+package com.sustcoder.auth;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.bouncycastle.util.encoders.Base64;
